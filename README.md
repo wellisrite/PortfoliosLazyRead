@@ -14,13 +14,13 @@ Pawoon
         ![Pawoon-finance](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/pf3.png)
     • Lazis PLN
         ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis0.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-1.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-2.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-3.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-4.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-5.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-6.png)
-        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/lazis-7.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-1.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-2.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-3.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-4.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-5.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-6.png)
+        ![PLN-Lazis](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/Lazis-7.png)
     • Pizza Shop
         ![Pizza Shop](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/ps.png)
     • Space Impact Game
