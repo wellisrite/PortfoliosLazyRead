@@ -1,6 +1,8 @@
 # PortfoliosLazyRead
 Portfolios
 --------------------
+For those who have interest in my project in easy way. My list of project after 3 years of experience. I can't list all of them as some are private project and most project already gone.
+
 1. Website Development
 
     • Pawoon-BackOffice (Private Project)
