@@ -27,7 +27,7 @@ For those who have interest in my project in easy way. My list of project after 
         ![Pizza Shop](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/ps.png)
     • Space Impact Game https://github.com/wellisrite/WellsSpaceImpact
         ![Well's Space Impact](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/wsi.png)
-    • Personal Tracker https://github.com/wellisrite/personal_tracker Live Demo : https://wellspersonaltracker.herokuapp.com
+    • Personal Tracker (Private Project) https://github.com/wellisrite/personal_tracker Live Demo : https://wellspersonaltracker.herokuapp.com
         ![Well's Personal Tracker](https://github.com/wellisrite/PortfoliosLazyRead/blob/master/blob/pt_1.png)
 
 
