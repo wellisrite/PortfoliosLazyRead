@@ -3,6 +3,8 @@ Portfolios
 --------------------
 For those who have interest in my project in easy way. My list of project after 3 years of experience. I can't list all of them as some are private project and most project already gone.
 
+Get the presentation here : https://github.com/wellisrite/PortfoliosLazyRead/presentations/SamJones.pdf
+
 1. Website Development
 
     • Pawoon-BackOffice (Private Project)
